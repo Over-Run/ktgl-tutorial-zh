@@ -1,0 +1,7 @@
+site_name: Ktgl 官方教程
+site_url: https://over-run.github.io/ktgl-tutorial-zh/
+nav:
+  - 简介: index.md
+  - 配置环境: setup.md
+  - 项目: project.md
+theme: readthedocs
