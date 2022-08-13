@@ -7,4 +7,9 @@ nav:
   - 场景: scene.md
 theme:
   name: readthedocs
-  language: zh
+  locale: zh_CN
+  hljs_languages:
+    - groovy
+markdown_extensions:
+  - toc:
+      permalink: true

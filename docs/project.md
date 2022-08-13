@@ -1,4 +1,4 @@
-# 项目
+# 项目 (Project)
 
 要创建一个项目，只需要调用`Project` DSL。
 
