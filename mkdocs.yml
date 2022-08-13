@@ -5,4 +5,6 @@ nav:
   - 配置环境: setup.md
   - 项目: project.md
   - 场景: scene.md
-theme: readthedocs
+theme:
+  name: readthedocs
+  language: zh
